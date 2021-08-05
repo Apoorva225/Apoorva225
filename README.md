@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apoorva225
+- 👋 Hi, I’m Apoorva Vanneldas
 - 👀 I’m interested in Python Developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
